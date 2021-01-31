@@ -1,0 +1,37 @@
+
+body{
+    background-color:rgb(129, 188, 243); 
+}
+#a {
+background-color:rgba(191, 194, 206, 0.788);
+color: rgb(55, 19, 212);
+}
+h1 {
+    text-align: center;
+}
+header ul {
+list-style:none;
+}
+header ul li {
+    display:inline;
+    margin: 70px;
+    font-size:large;
+}
+header ul li a{
+text-decoration: none;
+color: black;
+}
+.img{
+width: 1520px;
+height: 400px;
+float:right;
+
+}
+.font {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+
+

@@ -1,6 +1,6 @@
 var nameUser =prompt('enter your nmae please');
 
-document.write("<h3> welcome</h3> "+nameUser+" <h3> to clothing store</h3>");
+document.write("<h2> welcome "+nameUser+" to clothing store</h2>");
 
 var num =prompt('enter servie number you want that esist before the list services (1-Free Delivery...2-Return the product..3-Discount)');  
 function Service1(){
